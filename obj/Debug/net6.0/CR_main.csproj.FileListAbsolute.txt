@@ -1,0 +1,15 @@
+D:\Study\CR_main\bin\Debug\net6.0\CR_main.exe
+D:\Study\CR_main\bin\Debug\net6.0\CR_main.deps.json
+D:\Study\CR_main\bin\Debug\net6.0\CR_main.runtimeconfig.json
+D:\Study\CR_main\bin\Debug\net6.0\CR_main.dll
+D:\Study\CR_main\bin\Debug\net6.0\CR_main.pdb
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.csproj.AssemblyReference.cache
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.AssemblyInfoInputs.cache
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.AssemblyInfo.cs
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.csproj.CoreCompileInputs.cache
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.dll
+D:\Study\CR_main\obj\Debug\net6.0\refint\CR_main.dll
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.pdb
+D:\Study\CR_main\obj\Debug\net6.0\CR_main.genruntimeconfig.cache
+D:\Study\CR_main\obj\Debug\net6.0\ref\CR_main.dll

@@ -31,3 +31,26 @@ string[] arr1 = {"Hello", "2", "world", ":-)"};
             
             return result;
         }
+         void PrintArray(string[] array)
+        {
+            if(array.Length == 0)
+            {
+                Console.WriteLine("[]");
+            }
+            else
+            {
+                Array.ForEach(array, (str) => Console.Write($"'{str}' "));
+                Console.WriteLine();
+            }
+        }
+        void PrintTask(string[] array)
+        {
+            string[] shortArray = GetShortArray(array);
+            PrintArray(shortArray);
+            Console.WriteLine();
+        }
+        
+        PrintTask(arr1);
+        PrintTask(arr2);
+        PrintTask(arr3);
+    
